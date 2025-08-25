@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Plan Pathfinder Custom Colors
+				'plan-teal': 'hsl(var(--plan-teal))',
+				'plan-dark': 'hsl(var(--plan-dark))',
+				'plan-success': 'hsl(var(--plan-success))',
+				'plan-text': 'hsl(var(--plan-text))',
+				'plan-muted': 'hsl(var(--plan-muted))',
+				'plan-card': 'hsl(var(--plan-card))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
